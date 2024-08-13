@@ -21,3 +21,12 @@
 ```
 ### **To include specific folder (better way) or to ignore specific folder**
 ### **Note to put that after the  "compilerOptions": {} brackets**
+
+
+### there is repo called types has all famous libs make it support to typeScript
+#### to use just use this code if the lib you  want do not  support typeScript
+```yaml
+npm install -g lodash
+npm install -g @types/lodash
+
+```

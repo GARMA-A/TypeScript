@@ -1,8 +1,9 @@
 .vscode/
 node_modules/
-**/package.json
 **/package-lock.json
 **/nodemon.json
 **/*.js
 **/*.css
 **/*.html
+*.json
+**/node_modules/
